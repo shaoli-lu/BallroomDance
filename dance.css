@@ -1,0 +1,17 @@
+body {
+    background-color: cadetblue;
+}
+
+video { 
+    width: 300px; 
+    box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
+    border-radius: 5px;
+    transform: scale(1.02);
+  }
+
+  figcaption {
+      color: blueviolet;
+      font-size: 20px;
+      margin: 2px 0px 8px 10px;
+      font-weight: bold;
+  }
