@@ -1,3 +1,4 @@
+function run(){
 $(document).ready(function () {
     $('img').mousedown(function (e) {
         if(e.button == 2) { // right click
@@ -5,4 +6,5 @@ $(document).ready(function () {
         }
     });
 });
-
+}
+run();
